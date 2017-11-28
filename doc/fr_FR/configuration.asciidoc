@@ -42,4 +42,4 @@ https://mon_dns.com/plugins/gcast/core/php/gcastApi.php?apikey=xxxxxxMA_CLE_APIx
 * *Body* : {{TextField}}
 
 
-Il ne reste plus qu'a cliquer sur "Save" et profiter de vos intéractions entre Google Assistant et Jeedom ! 
+Il ne reste plus qu'à cliquer sur "Save" et profiter de vos intéractions entre Google Assistant et Jeedom ! 
